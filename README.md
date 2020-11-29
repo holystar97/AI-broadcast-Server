@@ -8,5 +8,5 @@ python3 scripts/opencv-camera-publish.py
 
 pgrep python3 | xargs kill -9
 
-https://github.com/robmarkcole/mqtt-camera-streamer -->소스 
-https://github.com/zzh8829/yolov3-tf2 ——> 소스코드 
+https://github.com/robmarkcole/mqtt-camera-streamer 
+https://github.com/zzh8829/yolov3-tf2 
